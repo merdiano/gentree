@@ -1,0 +1,8 @@
+version: '3'
+services:
+  gentree:
+    build: .
+    container_name: gentree
+    command: php application start
+    volumes:
+      - ./data:/usr/src/gentree/data
