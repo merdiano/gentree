@@ -1,4 +1,4 @@
-#PHP Gentree CLI Application
+# PHP Gentree CLI Application
 
 
 ##Prerequisites
